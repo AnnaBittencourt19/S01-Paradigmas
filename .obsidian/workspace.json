@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "6ec4f0814523ffd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc618fc54b5d5b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd4731d7d2dd5355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teoria/1.  Aspectos preliminares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.  Aspectos preliminares"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "106963c21b5f93d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a9ccaacc8d9cf98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ba0756a618cbe26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "37f029317d635ab0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "dc354eaef7334e51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0888096d6f30f2b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ec4d6d014392305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5734d24eb2074320",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "teoria/1.  Aspectos preliminares.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1.  Aspectos preliminares"
+            }
+          },
+          {
+            "id": "7ee0b65fbfa294df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "teoria/1.  Aspectos preliminares.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 1.  Aspectos preliminares"
+            }
+          },
+          {
+            "id": "1ccbdc9c020eea2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5acea159b6d20dc7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "aec12ea14a642530",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "teoria/1.  Aspectos preliminares.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 1.  Aspectos preliminares"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "dd4731d7d2dd5355",
+  "lastOpenFiles": [
+    "teoria/Sem título.md",
+    "teoria/1.  Aspectos preliminares.md",
+    "Pasted image 20260307132812.png"
+  ]
+}
