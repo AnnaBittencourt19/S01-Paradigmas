@@ -10,7 +10,9 @@ Repositório de estudos e práticas da disciplina S01 do **Inatel**.
 Até o momento, o repositório tem as seguintes linguagens:
 1. **Basic**
 2. **Lua**
+3. **Rust**
 ## 🛠️ Ferramentas
 - [jdooble](https://www.jdoodle.com/execute-freebasic-online) para Basic
 - [OneCompiler](https://onecompiler.com/lua) para Lua
+- [Rust playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2024) para Rust
 - VS Code
