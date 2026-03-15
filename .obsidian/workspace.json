@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teoria/2. Evolucao das linguagens de programacao.md",
+                "file": "prática/Sintaxes/Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Evolucao das linguagens de programacao"
+              "title": "Rust"
             }
           }
         ]
@@ -183,14 +183,15 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "dd4731d7d2dd5355",
+  "active": "4ba0756a618cbe26",
   "lastOpenFiles": [
+    "prática/Sintaxes/Lua.md",
+    "prática/Sintaxes/Rust.md",
+    "prática/Sintaxes/BASIC.md",
     "teoria/1.  Aspectos preliminares.md",
     "teoria/2. Evolucao das linguagens de programacao.md",
     "readme.md",
     "Sem título.base",
-    "prática/Sintaxes/Lua.md",
-    "prática/Sintaxes/BASIC.md",
     "prática/Sintaxes",
     "Pasted image 20260307132812.png"
   ]
