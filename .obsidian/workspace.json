@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prática/Sintaxes/Rust.md",
+                "file": "prática/relatórios/relatorio 04/Links para o go playground.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust"
+              "title": "Links para o go playground"
             }
           }
         ]
@@ -183,10 +183,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "4ba0756a618cbe26",
+  "active": "dd4731d7d2dd5355",
   "lastOpenFiles": [
-    "prática/Sintaxes/Lua.md",
+    "teoria/3..md",
+    "prática/relatórios/relatorio 04/Links para o go playground.md",
     "prática/Sintaxes/Rust.md",
+    "prática/Sintaxes/Lua.md",
     "prática/Sintaxes/BASIC.md",
     "teoria/1.  Aspectos preliminares.md",
     "teoria/2. Evolucao das linguagens de programacao.md",
