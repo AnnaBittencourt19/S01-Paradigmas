@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prática/relatórios/relatorio 04/Links para o go playground.md",
+                "file": "teoria/reposicao2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links para o go playground"
+              "title": "reposicao2"
             }
           }
         ]
@@ -185,13 +185,23 @@
   },
   "active": "dd4731d7d2dd5355",
   "lastOpenFiles": [
+    "teoria/reposicao2.pdf",
+    "teoria/reposicao.pdf",
+    "teoria/reposicao2.md",
+    "teoria/Sem título",
+    "teoria/reposicao.md",
+    "teoria/Exercicio 1.md",
+    "teoria/Exercicio 1.pdf",
+    "teoria/3.md",
+    "teoria/2.md",
+    "teoria/1.md",
     "teoria/3..md",
+    "teoria/1.  Aspectos preliminares.md",
+    "teoria/2. Evolucao das linguagens de programacao.md",
     "prática/relatórios/relatorio 04/Links para o go playground.md",
     "prática/Sintaxes/Rust.md",
     "prática/Sintaxes/Lua.md",
     "prática/Sintaxes/BASIC.md",
-    "teoria/1.  Aspectos preliminares.md",
-    "teoria/2. Evolucao das linguagens de programacao.md",
     "readme.md",
     "Sem título.base",
     "prática/Sintaxes",
