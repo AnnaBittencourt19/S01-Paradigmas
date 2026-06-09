@@ -3300,4 +3300,4 @@ Esse é um jeito bem típico de pensar em Haskell:
 > criar tipos bem definidos, escrever funções puras pequenas e depois combinar essas funções para formar o programa.
 
 ## Relatório de Satisfação e Aprendizado
-Utilizei o chatgpt para fazer uma explicação sobre a sintaxe de Haskell comparando ao Python, me deu um rumo muito bom e me auxílio a entender melhor a linguagem e realizar a atividade
+Utilizei o chatgpt para fazer uma explicação sobre a sintaxe de Haskell comparado ao Python, me deu um rumo muito bom e me auxiliou a entender melhor a linguagem e a realizar a atividade
